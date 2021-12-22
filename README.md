@@ -12,8 +12,8 @@ $ npm i
 
 ## ステップ3
 ファイルの出力サイズを指定してください。
-![image](https://user-images.githubusercontent.com/56786203/147047311-91b64899-eb4f-492d-a252-7fbe11817f14.png)
 
+![image](https://user-images.githubusercontent.com/56786203/147047408-9caa5827-e932-40a8-8c12-23ce8d8bc62a.png)
 
 ## ステップ4
 プログラムを実行する
